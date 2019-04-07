@@ -1,0 +1,270 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 Apr03 ?        00:00:02 /sbin/init splash
+root         2     0  0 Apr03 ?        00:00:00 [kthreadd]
+root         3     2  0 Apr03 ?        00:00:00 [rcu_gp]
+root         4     2  0 Apr03 ?        00:00:00 [rcu_par_gp]
+root         6     2  0 Apr03 ?        00:00:00 [kworker/0:0H]
+root         8     2  0 Apr03 ?        00:00:00 [mm_percpu_wq]
+root         9     2  0 Apr03 ?        00:00:00 [ksoftirqd/0]
+root        10     2  0 Apr03 ?        00:00:28 [rcu_sched]
+root        11     2  0 Apr03 ?        00:00:00 [migration/0]
+root        12     2  0 Apr03 ?        00:00:00 [idle_inject/0]
+root        14     2  0 Apr03 ?        00:00:00 [cpuhp/0]
+root        15     2  0 Apr03 ?        00:00:00 [cpuhp/1]
+root        16     2  0 Apr03 ?        00:00:00 [idle_inject/1]
+root        17     2  0 Apr03 ?        00:00:00 [migration/1]
+root        18     2  0 Apr03 ?        00:00:00 [ksoftirqd/1]
+root        20     2  0 Apr03 ?        00:00:00 [kworker/1:0H-kb]
+root        21     2  0 Apr03 ?        00:00:00 [cpuhp/2]
+root        22     2  0 Apr03 ?        00:00:00 [idle_inject/2]
+root        23     2  0 Apr03 ?        00:00:00 [migration/2]
+root        24     2  0 Apr03 ?        00:00:00 [ksoftirqd/2]
+root        26     2  0 Apr03 ?        00:00:00 [kworker/2:0H-kb]
+root        27     2  0 Apr03 ?        00:00:00 [cpuhp/3]
+root        28     2  0 Apr03 ?        00:00:00 [idle_inject/3]
+root        29     2  0 Apr03 ?        00:00:00 [migration/3]
+root        30     2  0 Apr03 ?        00:00:00 [ksoftirqd/3]
+root        32     2  0 Apr03 ?        00:00:00 [kworker/3:0H-ev]
+root        33     2  0 Apr03 ?        00:00:00 [cpuhp/4]
+root        34     2  0 Apr03 ?        00:00:00 [idle_inject/4]
+root        35     2  0 Apr03 ?        00:00:00 [migration/4]
+root        36     2  0 Apr03 ?        00:00:00 [ksoftirqd/4]
+root        38     2  0 Apr03 ?        00:00:00 [kworker/4:0H-kb]
+root        39     2  0 Apr03 ?        00:00:00 [cpuhp/5]
+root        40     2  0 Apr03 ?        00:00:00 [idle_inject/5]
+root        41     2  0 Apr03 ?        00:00:00 [migration/5]
+root        42     2  0 Apr03 ?        00:00:00 [ksoftirqd/5]
+root        44     2  0 Apr03 ?        00:00:00 [kworker/5:0H-ev]
+root        45     2  0 Apr03 ?        00:00:00 [cpuhp/6]
+root        46     2  0 Apr03 ?        00:00:00 [idle_inject/6]
+root        47     2  0 Apr03 ?        00:00:00 [migration/6]
+root        48     2  0 Apr03 ?        00:00:00 [ksoftirqd/6]
+root        50     2  0 Apr03 ?        00:00:00 [kworker/6:0H-ev]
+root        51     2  0 Apr03 ?        00:00:00 [cpuhp/7]
+root        52     2  0 Apr03 ?        00:00:00 [idle_inject/7]
+root        53     2  0 Apr03 ?        00:00:00 [migration/7]
+root        54     2  0 Apr03 ?        00:00:00 [ksoftirqd/7]
+root        56     2  0 Apr03 ?        00:00:00 [kworker/7:0H-kb]
+root        57     2  0 Apr03 ?        00:00:00 [kdevtmpfs]
+root        58     2  0 Apr03 ?        00:00:00 [netns]
+root        59     2  0 Apr03 ?        00:00:00 [rcu_tasks_kthre]
+root        60     2  0 Apr03 ?        00:00:00 [kauditd]
+root        62     2  0 Apr03 ?        00:00:00 [khungtaskd]
+root        63     2  0 Apr03 ?        00:00:00 [oom_reaper]
+root        64     2  0 Apr03 ?        00:00:00 [writeback]
+root        65     2  0 Apr03 ?        00:00:00 [kcompactd0]
+root        66     2  0 Apr03 ?        00:00:00 [ksmd]
+root        67     2  0 Apr03 ?        00:00:00 [khugepaged]
+root        68     2  0 Apr03 ?        00:00:00 [crypto]
+root        69     2  0 Apr03 ?        00:00:00 [kintegrityd]
+root        70     2  0 Apr03 ?        00:00:00 [kblockd]
+root        72     2  0 Apr03 ?        00:00:00 [tpm_dev_wq]
+root        73     2  0 Apr03 ?        00:00:00 [ata_sff]
+root        74     2  0 Apr03 ?        00:00:00 [md]
+root        75     2  0 Apr03 ?        00:00:00 [edac-poller]
+root        78     2  0 Apr03 ?        00:00:00 [devfreq_wq]
+root        79     2  0 Apr03 ?        00:00:00 [watchdogd]
+root        87     2  0 Apr03 ?        00:00:00 [kswapd0]
+root        89     2  0 Apr03 ?        00:00:00 [ecryptfs-kthrea]
+root       178     2  0 Apr03 ?        00:00:00 [kthrotld]
+root       179     2  0 Apr03 ?        00:00:00 [irq/122-aerdrv]
+root       180     2  0 Apr03 ?        00:00:00 [irq/122-pcie-dp]
+root       181     2  0 Apr03 ?        00:00:00 [irq/123-aerdrv]
+root       182     2  0 Apr03 ?        00:00:00 [irq/123-pcie-dp]
+root       183     2  0 Apr03 ?        00:00:00 [acpi_thermal_pm]
+root       184     2  0 Apr03 ?        00:00:00 [ipv6_addrconf]
+root       195     2  0 Apr03 ?        00:00:00 [kstrp]
+root       214     2  0 Apr03 ?        00:00:00 [charger_manager]
+root       274     2  0 Apr03 ?        00:00:00 [nvme-wq]
+root       275     2  0 Apr03 ?        00:00:00 [scsi_eh_0]
+root       276     2  0 Apr03 ?        00:00:00 [scsi_tmf_0]
+root       277     2  0 Apr03 ?        00:00:00 [scsi_eh_1]
+root       278     2  0 Apr03 ?        00:00:00 [scsi_tmf_1]
+root       279     2  0 Apr03 ?        00:00:00 [nvme-reset-wq]
+root       280     2  0 Apr03 ?        00:00:00 [nvme-delete-wq]
+root       281     2  0 Apr03 ?        00:00:00 [scsi_eh_2]
+root       282     2  0 Apr03 ?        00:00:00 [scsi_tmf_2]
+root       283     2  0 Apr03 ?        00:00:00 [scsi_eh_3]
+root       284     2  0 Apr03 ?        00:00:00 [scsi_tmf_3]
+root       285     2  0 Apr03 ?        00:00:00 [scsi_eh_4]
+root       286     2  0 Apr03 ?        00:00:00 [scsi_tmf_4]
+root       290     2  0 Apr03 ?        00:00:01 [kworker/4:1H-ev]
+root       291     2  0 Apr03 ?        00:00:04 [i915/signal:0]
+root       292     2  0 Apr03 ?        00:00:00 [i915/signal:1]
+root       293     2  0 Apr03 ?        00:00:00 [i915/signal:2]
+root       294     2  0 Apr03 ?        00:00:00 [i915/signal:6]
+root       298     2  0 Apr03 ?        00:00:00 [kworker/6:1H-kb]
+root       300     2  0 Apr03 ?        00:00:00 [kworker/5:1H-ev]
+root       364     2  0 Apr03 ?        00:00:00 [kworker/3:1H-kb]
+root       413     2  0 Apr03 ?        00:00:00 [kworker/7:1H-kb]
+root       415     2  0 Apr03 ?        00:00:02 [jbd2/sda3-8]
+root       416     2  0 Apr03 ?        00:00:00 [ext4-rsv-conver]
+root       449     2  0 Apr03 ?        00:00:00 [kworker/0:1H-ev]
+root       471     2  0 Apr03 ?        00:00:00 [kworker/2:1H-kb]
+root       475     1  0 Apr03 ?        00:00:12 /lib/systemd/systemd-journald
+root       482     1  0 Apr03 ?        00:00:00 /sbin/lvmetad -f
+root       485     1  0 Apr03 ?        00:00:01 /lib/systemd/systemd-udevd
+root       493     2  0 Apr03 ?        00:00:00 [kworker/1:1H-kb]
+root       539     2  0 Apr03 ?        00:00:00 [cfg80211]
+root       586     2  0 Apr03 ?        00:00:00 [led_workqueue]
+root       682     2  0 Apr03 ?        00:00:31 [irq/138-iwlwifi]
+root       683     2  0 Apr03 ?        00:00:00 [irq/139-iwlwifi]
+root       684     2  0 Apr03 ?        00:00:00 [irq/140-iwlwifi]
+root       685     2  0 Apr03 ?        00:00:00 [irq/141-iwlwifi]
+root       686     2  0 Apr03 ?        00:00:00 [irq/142-iwlwifi]
+root       687     2  0 Apr03 ?        00:00:00 [irq/143-iwlwifi]
+root       688     2  0 Apr03 ?        00:00:00 [irq/144-iwlwifi]
+root       689     2  0 Apr03 ?        00:00:00 [irq/145-iwlwifi]
+root       690     2  0 Apr03 ?        00:00:00 [irq/146-iwlwifi]
+root       691     2  0 Apr03 ?        00:00:00 [irq/147-iwlwifi]
+systemd+   930     1  0 Apr03 ?        00:00:06 /lib/systemd/systemd-resolved
+root       949     1  0 Apr03 ?        00:00:01 /usr/sbin/acpid
+message+   958     1  0 Apr03 ?        00:00:11 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root      1003     1  0 Apr03 ?        00:00:01 /usr/lib/udisks2/udisksd
+avahi     1005     1  0 Apr03 ?        00:00:04 avahi-daemon: running [faizan-TUF-GAMING-FX504GE-FX80GE.local]
+root      1016     1  0 Apr03 ?        00:00:00 /usr/sbin/ModemManager
+root      1023     1  0 Apr03 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher
+root      1031     1  0 Apr03 ?        00:00:01 /usr/sbin/irqbalance --foreground
+root      1036     1  0 Apr03 ?        00:00:00 /usr/lib/bluetooth/bluetoothd
+root      1041     1  0 Apr03 ?        00:00:01 /usr/sbin/thermald --no-daemon --dbus-enable
+syslog    1042     1  0 Apr03 ?        00:00:01 /usr/sbin/rsyslogd -n
+root      1043     1  0 Apr03 ?        00:00:00 /lib/systemd/systemd-logind
+root      1044     1  0 Apr03 ?        00:00:16 /usr/sbin/NetworkManager --no-daemon
+root      1052     1  0 Apr03 ?        00:01:12 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root      1056     1  0 Apr03 ?        00:00:00 /usr/sbin/cron -f
+root      1057     1  0 Apr03 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+avahi     1074  1005  0 Apr03 ?        00:00:00 avahi-daemon: chroot helper
+kernoops  1152     1  0 Apr03 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops  1161     1  0 Apr03 ?        00:00:00 /usr/sbin/kerneloops
+root      1225     1  0 Apr03 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1322     2  0 Apr03 ?        00:00:00 bpfilter_umh
+root      1484     1  0 Apr03 ?        00:00:00 /usr/sbin/lightdm
+lxc-dns+  1519     1  0 Apr03 ?        00:00:00 dnsmasq -u lxc-dnsmasq --strict-order --bind-interfaces --pid-file=/run/lxc/dnsmasq.pid --listen-address 10.0.3.1 --dhcp-range 10.0.3.2,10.0.3.254 --dhcp-lease-max=253 --dhcp-no-override --except-interface=lo --interface=lxcbr0 --dhcp-leasefile=/var/lib/misc/dnsmasq.lxcbr0.leases --dhcp-authoritative
+root      1607  1484  1 Apr03 tty7     00:07:49 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1624     1  0 Apr03 tty1     00:00:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root      1869     1  0 Apr03 ?        00:00:00 /usr/lib/upower/upowerd
+root      1955  1484  0 Apr03 ?        00:00:00 lightdm --session-child 12 19
+faizan    2213     1  0 Apr03 ?        00:00:00 /lib/systemd/systemd --user
+faizan    2214  2213  0 Apr03 ?        00:00:00 (sd-pam)
+faizan    2229     1  0 Apr03 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+faizan    2232  1955  0 Apr03 ?        00:00:00 cinnamon-session --session cinnamon
+faizan    2245  2213  0 Apr03 ?        00:00:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+faizan    2298  2232  0 Apr03 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/im-launch cinnamon-session-cinnamon
+faizan    2310  2213  0 Apr03 ?        00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+faizan    2315  2310  0 Apr03 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+faizan    2317  2213  0 Apr03 ?        00:00:05 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+faizan    2329  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-mouse
+faizan    2331  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-xsettings
+faizan    2332  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-xrandr
+faizan    2333  2232  0 Apr03 ?        00:00:04 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-keyboard
+faizan    2334  2232  0 Apr03 ?        00:00:01 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-power
+faizan    2335  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-screensaver-proxy
+faizan    2339  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-color
+faizan    2341  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-automount
+faizan    2346  2213  0 Apr03 ?        00:00:00 /usr/lib/gvfs/gvfsd
+faizan    2347  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-cursor
+faizan    2349  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-print-notifications
+faizan    2353  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-orientation
+faizan    2361  2213  0 Apr03 ?        00:00:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+faizan    2362  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-a11y-keyboard
+faizan    2368  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-housekeeping
+faizan    2376  2232  0 Apr03 ?        00:00:01 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-media-keys
+faizan    2377  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-background
+faizan    2379  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-clipboard
+faizan    2380  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-a11y-settings
+faizan    2381  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-wacom
+faizan    2383  2232  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-sound
+faizan    2422     1  1 Apr03 ?        00:08:39 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     2424     1  0 Apr03 ?        00:00:00 /usr/lib/rtkit/rtkit-daemon
+faizan    2444  2213  0 Apr03 ?        00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+faizan    2452  2213  0 Apr03 ?        00:00:00 /usr/lib/dconf/dconf-service
+colord    2460     1  0 Apr03 ?        00:00:00 /usr/lib/colord/colord
+faizan    2474  2213  0 Apr03 ?        00:00:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+faizan    2485  2213  0 Apr03 ?        00:00:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+faizan    2495     1  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-printer
+faizan    2503  2213  0 Apr03 ?        00:00:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+faizan    2508  2213  0 Apr03 ?        00:00:00 /usr/lib/gnome-online-accounts/goa-daemon
+faizan    2524  2213  0 Apr03 ?        00:00:00 /usr/lib/gnome-online-accounts/goa-identity-service
+faizan    2530  2213  0 Apr03 ?        00:00:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+root      2544     2  0 Apr03 ?        00:00:00 [krfcommd]
+faizan    2547  2232  0 Apr03 ?        00:00:00 /usr/bin/python3 /usr/bin/cinnamon-launcher
+faizan    2548  2547  5 Apr03 ?        00:26:17 cinnamon --replace
+faizan    2569  2232  0 Apr03 ?        00:00:00 blueberry-obex-agent
+faizan    2574  2232  0 Apr03 ?        00:00:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+faizan    2575  2232  0 Apr03 ?        00:00:01 nemo-desktop
+faizan    2576  2232  0 Apr03 ?        00:00:01 nm-applet
+faizan    2577  2232  0 Apr03 ?        00:00:00 /usr/bin/python3 /usr/bin/cinnamon-killer-daemon
+faizan    2578  2232  0 Apr03 ?        00:00:00 sh /home/faizan/.config/ukuu-notify.sh
+faizan    2605  2213  0 Apr03 ?        00:00:00 /usr/lib/bluetooth/obexd
+faizan    2611  2213  0 Apr03 ?        00:00:00 /usr/lib/gvfs/gvfsd-metadata
+faizan    2648  2346  0 Apr03 ?        00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.13 /org/gtk/gvfs/exec_spaw/0
+faizan    2657  2232  0 Apr03 ?        00:00:00 /usr/bin/python3 /usr/bin/blueberry-tray
+faizan    2658  2232  0 Apr03 ?        00:00:04 cinnamon-screensaver
+faizan    2659  2657  0 Apr03 ?        00:00:00 sh -c /usr/lib/blueberry/blueberry-tray.py
+faizan    2660  2659  0 Apr03 ?        00:00:00 python2 /usr/lib/blueberry/blueberry-tray.py
+faizan    2667  2660  0 Apr03 ?        00:00:00 python2 /usr/lib/blueberry/safechild /usr/sbin/rfkill event
+faizan    2668  2667  0 Apr03 ?        00:00:00 /usr/sbin/rfkill event
+faizan    2751  2548  7 Apr03 ?        00:33:50 /usr/lib/firefox/firefox
+faizan    2833  2751  3 Apr03 ?        00:15:44 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 1 -prefMapSize 175573 -schedulerPrefs 0001,2 -parentBuildID 20181209160329 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 2751 true tab
+faizan    2893  2751  0 Apr03 ?        00:00:40 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 95 -prefMapSize 175573 -schedulerPrefs 0001,2 -parentBuildID 20181209160329 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 2751 true tab
+faizan    2957  2751  2 Apr03 ?        00:10:51 /usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 5729 -prefMapSize 175573 -schedulerPrefs 0001,2 -parentBuildID 20181209160329 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 2751 true tab
+faizan    3095     1  0 Apr03 ?        00:00:00 mintUpdate
+faizan    3112  2232  0 Apr03 ?        00:00:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+faizan    3138  2346  0 Apr03 ?        00:00:00 /usr/lib/gvfs/gvfsd-network --spawner :1.13 /org/gtk/gvfs/exec_spaw/1
+faizan    3169  2346  0 Apr03 ?        00:00:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.13 /org/gtk/gvfs/exec_spaw/5
+faizan    3423  2548  0 Apr03 ?        00:00:19 nemo
+faizan    3452  2578  0 Apr03 ?        00:00:00 sleep 7d
+faizan    4098     1  0 Apr03 ?        00:00:01 /usr/lib/speech-dispatcher-modules/sd_generic /etc/speech-dispatcher/modules/generic.conf
+faizan    4101     1  0 Apr03 ?        00:00:01 /usr/lib/speech-dispatcher-modules/sd_espeak-ng /etc/speech-dispatcher/modules/espeak-ng.conf
+faizan    4107     1  0 Apr03 ?        00:00:01 /usr/lib/speech-dispatcher-modules/sd_dummy /etc/speech-dispatcher/modules/dummy.conf
+faizan    4110     1  0 Apr03 ?        00:00:00 /usr/bin/speech-dispatcher --spawn --communication-method unix_socket --socket-path /run/user/1000/speech-dispatcher/speechd.sock
+faizan    4623  2751  2 Apr03 ?        00:10:06 /usr/lib/firefox/firefox -contentproc -childID 10 -isForBrowser -prefsLen 6860 -prefMapSize 175573 -schedulerPrefs 0001,2 -parentBuildID 20181209160329 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 2751 true tab
+root      4813     2  0 Apr03 ?        00:00:00 [kworker/u17:1-r]
+faizan    5095  2213  0 Apr03 ?        00:00:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+faizan    5247  2751 13 Apr03 ?        00:49:21 /usr/lib/firefox/firefox -contentproc -childID 11 -isForBrowser -prefsLen 6860 -prefMapSize 175573 -schedulerPrefs 0001,2 -parentBuildID 20181209160329 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 2751 true tab
+faizan    6557  2346  0 Apr03 ?        00:00:00 /usr/lib/gvfs/gvfsd-http --spawner :1.13 /org/gtk/gvfs/exec_spaw/6
+faizan    8806  2213  0 Apr03 ?        00:00:37 /usr/lib/gnome-terminal/gnome-terminal-server
+root      9934     1  0 00:21 ?        00:00:00 /usr/sbin/cupsd -l
+root      9936     1  0 00:21 ?        00:00:00 /usr/sbin/cups-browsed
+faizan   10735  2213  0 00:38 ?        00:02:27 /usr/share/code/code proxy.py
+faizan   10737 10735  0 00:38 ?        00:00:00 /usr/share/code/code --type=zygote --no-sandbox
+faizan   10769 10735  0 00:38 ?        00:02:23 /usr/share/co  --type=gpu-process --disable-features=ColorCorrectRendering --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=9,27,84 --disable-gl-extensions=GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent --disable-accelerated-video-decode --gpu-vendor-id=0x10de --gpu-device-id=0x1c8c --gpu-driver-vendor --gpu-driver-version --gpu-driver-date --gpu-secondary-vendor-ids=0x8086 --gpu-secondary-device-ids=0x3e9b --service-request-channel-token=BA36919A0716B58E1F665FC6FC403132
+faizan   10776 10737  3 00:38 ?        00:08:08 /usr/share/code/code --type=renderer --js-flags=--nolazy --disable-mojo-local-storage --no-sandbox --disable-features=ColorCorrectRendering --service-pipe-token=DECBC249AB70E836C2E43CB4E83DEF18 --lang=en-GB --app-path=/usr/share/code/resources/app --node-integration=true --webview-tag=true --no-sandbox --background-color=#1e1e1e --context-id=2 --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=DECBC249AB70E836C2E43CB4E83DEF18 --renderer-client-id=4 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+faizan   10804 10776  0 00:38 ?        00:00:12 /usr/share/code/code --nolazy --inspect=32095 /usr/share/code/resources/app/out/bootstrap-fork --type=extensionHost
+faizan   10816 10776  0 00:38 ?        00:00:05 /usr/share/code/code /usr/share/code/resources/app/out/bootstrap-fork --type=watcherService
+faizan   10870 10737  0 00:38 ?        00:00:07 /usr/share/code/code --type=renderer --js-flags=--nolazy --disable-mojo-local-storage --no-sandbox --disable-features=ColorCorrectRendering --service-pipe-token=0066DE1B481742E034AC65884976E80A --lang=en-GB --app-path=/usr/share/code/resources/app --node-integration=true --webview-tag=true --no-sandbox --background-color=#1e1e1e --disable-blink-features=Auxclick --context-id=2 --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=0066DE1B481742E034AC65884976E80A --renderer-client-id=6 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+root     14528     2  0 02:00 ?        00:00:02 [kworker/4:0-eve]
+root     14856     2  0 02:07 ?        00:00:00 [kworker/1:1-mm_]
+faizan   15689  8806  0 02:33 pts/4    00:00:00 bash
+root     15873     2  0 02:39 ?        00:00:00 [kworker/7:0-eve]
+root     16343     2  0 03:36 ?        00:00:00 [irq/127-mei_me]
+root     16346     2  0 03:36 ?        00:00:00 [kworker/u17:2-h]
+root     16422     2  0 03:36 ?        00:00:00 [kworker/7:2-eve]
+nobody   16505  1044  0 03:36 ?        00:00:00 /usr/sbin/dnsmasq --conf-file --no-hosts --keep-in-foreground --bind-interfaces --except-interface=lo --clear-on-reload --strict-order --listen-address=10.42.0.1 --dhcp-range=10.42.0.10,10.42.0.254,60m --dhcp-lease-max=50 --pid-file=/run/nm-dnsmasq-wlo1.pid --conf-dir=/etc/NetworkManager/dnsmasq-shared.d
+root     18158     2  0 04:03 ?        00:00:00 [kworker/2:1-eve]
+root     18634     2  0 04:18 ?        00:00:00 [kworker/1:0]
+root     18689     2  0 04:21 ?        00:00:00 [kworker/u16:0-e]
+root     18779     2  0 04:26 ?        00:00:00 [kworker/3:0-eve]
+root     18804     2  0 04:29 ?        00:00:00 [kworker/0:1-eve]
+root     18805     2  0 04:29 ?        00:00:00 [kworker/5:1-eve]
+root     18807     2  0 04:29 ?        00:00:00 [kworker/u16:1-e]
+root     18859  1044  0 04:30 ?        00:00:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-enp3s0.pid -lf /var/lib/NetworkManager/dhclient-5527d6b9-9294-43ee-ad87-d2cc2eeed472-enp3s0.lease -cf /var/lib/NetworkManager/dhclient-enp3s0.conf enp3s0
+root     18915     2  0 04:30 ?        00:00:00 [kworker/2:0-cgr]
+root     19044     2  0 04:33 ?        00:00:00 [kworker/6:0-eve]
+root     19077     2  0 04:34 ?        00:00:00 [kworker/u16:2-e]
+root     19205     2  0 04:36 ?        00:00:00 [kworker/4:2]
+root     19211     2  0 04:37 ?        00:00:00 [kworker/5:2-eve]
+root     19225     2  0 04:38 ?        00:00:00 [kworker/3:1]
+root     19260     2  0 04:39 ?        00:00:00 [kworker/6:1]
+faizan   19267  8806  0 04:40 pts/0    00:00:00 bash
+faizan   19275  8806  0 04:40 pts/1    00:00:00 bash
+faizan   19287 19275  0 04:40 pts/1    00:00:00 python server.py 19999
+faizan   19291 19267  0 04:40 pts/0    00:00:00 python proxy.py
+root     19296     2  0 04:40 ?        00:00:00 [kworker/0:0-eve]
+faizan   19352  8806  0 04:42 pts/2    00:00:00 bash
+faizan   19371 15689  0 04:43 pts/4    00:00:00 python client.py 20001:20003 20100 19999
+root     19397     2  0 04:43 ?        00:00:00 [kworker/5:0-eve]
+faizan   19497 19371  0 04:44 pts/4    00:00:00 sh -c curl --request GET --proxy 127.0.0.1:20100 --local-port 20001:20003 127.0.0.1:19999/6.txt
+faizan   19498 19497  0 04:44 pts/4    00:00:00 curl --request GET --proxy 127.0.0.1:20100 --local-port 20001:20003 127.0.0.1:19999/6.txt
+root     19537     2  0 04:46 ?        00:00:00 [kworker/0:2-eve]
+faizan   19561 19352  0 04:48 pts/2    00:00:00 ps -fA

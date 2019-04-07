@@ -1,0 +1,7 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+faizan   19287 19275  0 04:40 pts/1    00:00:00 python server.py 19999
+faizan   19291 19267  0 04:40 pts/0    00:00:00 python proxy.py
+faizan   19371 15689  0 04:43 pts/4    00:00:00 python client.py 20001:20003 20100 19999
+faizan   19497 19371  0 04:44 pts/4    00:00:00 sh -c curl --request GET --proxy 127.0.0.1:20100 --local-port 20001:20003 127.0.0.1:19999/6.txt
+faizan   19498 19497  0 04:44 pts/4    00:00:00 curl --request GET --proxy 127.0.0.1:20100 --local-port 20001:20003 127.0.0.1:19999/6.txt
+faizan   19572 19352  0 04:48 pts/2    00:00:00 ps -fa

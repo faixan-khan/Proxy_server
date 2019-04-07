@@ -1,0 +1,17 @@
+total 40
+drwxrwxr-x 2 faizan faizan 4096 Apr  4 04:45 .
+drwxrwxr-x 5 faizan faizan 4096 Apr  4 04:39 ..
+-rw-r--r-- 1 faizan faizan    0 Apr  4 04:44 10.txt
+-rw-r--r-- 1 faizan faizan  574 Apr  4 04:45 1.txt
+-rw-r--r-- 1 faizan faizan  574 Apr  4 04:47 2.txt
+-rw-r--r-- 1 faizan faizan  575 Apr  4 04:47 3.txt
+-rw-r--r-- 1 faizan faizan  575 Apr  4 04:47 4.txt
+-rw-r--r-- 1 faizan faizan    0 Apr  4 04:44 5.txt
+-rw-r--r-- 1 faizan faizan    0 Apr  4 04:44 6.txt
+-rw-r--r-- 1 faizan faizan    0 Apr  4 04:44 7.txt
+-rw-r--r-- 1 faizan faizan    0 Apr  4 04:44 8.txt
+-rw-r--r-- 1 faizan faizan    0 Apr  4 04:44 9.txt
+-rw-rw-r-- 1 faizan faizan 1473 Apr  4 04:38 server.py
+-rw-r--r-- 1 faizan faizan  574 Apr  4 04:45 .txt
+-rw-r--r-- 1 faizan faizan  574 Apr  4 04:45 ..txt
+-rw-r--r-- 1 faizan faizan 1148 Apr  4 04:45 .*.txt
